@@ -2,7 +2,7 @@
 
 ![Elfacu0's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfacu0&show_icons=true&theme=merko)
 
-## Play some tetris ##
+## Play some tetris <sub>(takes a while to update tho, try reloading)</sub> ##
 ![Tetris](https://readme-tetris.herokuapp.com)
 
 [![Left](https://img.icons8.com/plumpy/48/000000/chevron-left.png)](https://readme-tetris.herokuapp.com/play/left)
