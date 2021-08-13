@@ -11,6 +11,5 @@
 [![Down](https://img.icons8.com/plumpy/48/000000/chevron-down.png)](https://readme-tetris.herokuapp.com/play/down)
 [![Rotate](https://img.icons8.com/plumpy/48/000000/rotate.png)](https://readme-tetris.herokuapp.com/play/rotate)
 
-
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 
