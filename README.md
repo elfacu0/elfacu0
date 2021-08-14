@@ -3,7 +3,7 @@
 ![Elfacu0's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfacu0&show_icons=true&theme=merko)
 
 ## Play some tetris <sub>(takes a while to update tho, try reloading or click <a href="https://readme-tetris.herokuapp.com">here</a>)</sub> ##
-![Tetris](https://readme-tetris.herokuapp.com)
+[![Tetris](https://readme-tetris.herokuapp.com)](https://readme-tetris.herokuapp.com)
 
 [![Left](https://img.icons8.com/plumpy/48/000000/chevron-left.png)](https://readme-tetris.herokuapp.com/play/left)
 [![Drop](https://img.icons8.com/plumpy/48/000000/double-down.png)](https://readme-tetris.herokuapp.com/play/drop)
